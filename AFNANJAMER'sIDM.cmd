@@ -1,4 +1,4 @@
-@set iasver=1.0
+@set AfnanJamber
 @setlocal DisableDelayedExpansion
 @echo off
 
